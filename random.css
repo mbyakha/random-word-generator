@@ -1,0 +1,31 @@
+
+body{
+	background: blanchedalmond;
+	color: black;
+
+}
+div{
+	width: 40%;
+	height: 30vh;
+	background: floralwhite;
+	padding-top: 10px;
+	text-align: center;
+	margin: auto;
+	margin-top: 120px;
+	border-radius: 5px;
+	border: 2px solid black;
+
+}
+button{
+	width: 20%;
+	height: 5vh;
+	color: black;
+	font-weight: bold;
+	cursor: pointer;
+
+}
+p{
+	color: darkred;
+	font-weight: bolder;
+	font-size: 20px;
+}
